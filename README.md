@@ -7,5 +7,5 @@
   - [osTicket: Post-Installation Setup](https://github.com/Jpalacios66/osticket_post-install)
 - <b>Microsoft Azure</b>
   - [Preparing Active Directory Infastructure in Azure](https://github.com/Jpalacios66/Preparing-AD-infrastructure)
-  - [Deploying Active Directory in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Deploying Active Directory in Azure]()
 
