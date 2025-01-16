@@ -6,6 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Jpalacios66/osticket-prereqs)
   - [osTicket: Post-Installation Setup](https://github.com/Jpalacios66/osticket_post-install)
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infastructure in Azure](README.md)
+  - [Preparing Active Directory Infastructure in Azure](https://github.com/Jpalacios66/Preparing-AD-infrastructure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
